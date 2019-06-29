@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Vc'
-  s.version          = '0.1.0'
+  s.version          = '1.6.1'
   s.summary          = 'A short description of Vc.'
 
 # This description is used to generate tags and improve search results.

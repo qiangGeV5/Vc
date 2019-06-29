@@ -1,0 +1,6 @@
+framework module Vc {
+  umbrella header "Vc-umbrella.h"
+
+  export *
+  module * { export * }
+}
