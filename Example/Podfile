@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Vc_Tests' do
+  pod 'Vc', :path => '../'
+  
+  
+end
